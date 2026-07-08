@@ -39,7 +39,7 @@
 ###
 
 <p align="left">
-I'm <b>Divyans Srivastava</b>, a CSE undergrad, full-stack learner, and AI-assisted project builder from India.
+I'm <b>Divyans Srivastava</b>, a CSE undergrad, and Full Stack Developer focused on React, Node.js, Express and MongoDB.
 <br><br>
 - 🔭 I’m currently working on <b>Cineza</b> — an AI-powered gamified movie discovery platform<br>
 - 🏥 I built <b>IndieMed</b>, a healthcare and emergency support web app<br>
