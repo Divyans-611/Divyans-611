@@ -130,14 +130,14 @@ A weather app using OpenWeather API and an AI chatbot named Mausam for weather-b
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyans-611&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyans-611&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyans-611&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150" alt="GitHub stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyans-611&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150" alt="Top languages graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Divyans-611&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="GitHub streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Divyans-611&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3&cache_seconds=1800" height="220" alt="GitHub streak graph" />
 </div>
 
 ###
